@@ -2,6 +2,18 @@
 
 Сделано на laravel 5.  
 
+
+# app/Http/routes.php   
+Файл Маршрутизации, где задаются маршруты для api.  
+Verb | Path | Action | Route Name | Комментарий
+GET | /broadcast | index | broadcast.index | Получение списка активных трансляций  
+POST | /broadcast | store | broadcast.store | Добавление новой трансляции
+GET | /broadcast/{id} | show | broadcast.show | Получение информации о трансляции по ID  
+PUT/PATCH | /broadcast/{id} | update | broadcast.update | Изменение существующей трансляции  
+DELETE | /broadcast/{id} | destroy | broadcast.destroy | Удаление трансляции  
+
+https://laravel.com/docs/5.1/controllers#restful-resource-controllers  
+
 # database/migrations/2016_08_04_062726_create_broadcasts_table.php  
 Миграция для создания таблицы трансляций broadcasts в базе данных  
             $table->increments('id'); //Первичный ключ ID  
@@ -14,17 +26,6 @@
 
 # app/Broadcast.php  
 Модель для таблицы трансляций broadcasts 
-
-# app/Http/routes.php   
-Файл Маршрутизации, где задаются маршруты для api.  
-Verb	Path	Action	Route Name  
-GET	/broadcast	index	broadcast.index  Получение списка активных трансляций  
-POST	/broadcast	store	broadcast.store  Добавление новой трансляции
-GET	/broadcast/{id}	show	broadcast.show  Получение информации о трансляции по ID  
-PUT/PATCH	/broadcast/{id}	update	broadcast.update  Изменение существующей трансляции  
-DELETE	/broadcast/{id}	destroy	broadcast.destroy  Удаление трансляции  
-
-https://laravel.com/docs/5.1/controllers#restful-resource-controllers  
 
 # app/Http/Controllers/BroadcastController.php  
 Контроллер для обработки трансляций.  
