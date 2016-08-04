@@ -5,11 +5,11 @@
 
 # app/Http/routes.php   
 Файл Маршрутизации, где задаются маршруты для api.  
-Verb | Path | Action | Route Name | Комментарий
+Verb | Path | Action | Route Name | Комментарий  
 GET | /broadcast | index | broadcast.index | Получение списка активных трансляций  
-POST | /broadcast | store | broadcast.store | Добавление новой трансляции
+POST | /broadcast | store | broadcast.store | Добавление новой трансляции  
 GET | /broadcast/{id} | show | broadcast.show | Получение информации о трансляции по ID  
-PUT/PATCH | /broadcast/{id} | update | broadcast.update | Изменение существующей трансляции  
+PUT/PATCH | /broadcast/{id} | update | broadcast.update | Изменение существующей трансляции   
 DELETE | /broadcast/{id} | destroy | broadcast.destroy | Удаление трансляции  
 
 https://laravel.com/docs/5.1/controllers#restful-resource-controllers  
