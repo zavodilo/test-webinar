@@ -1,0 +1,1905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dffa1d09-1c9f-498d-81cd-66f27fd3c8ad" name="Default" comment="" />
+    <ignored path="uley.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/uley$GetDataTest.coverage" NAME="GetDataTest Coverage Results" MODIFIED="1458224201912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/uley$tests.coverage" NAME="tests Coverage Results" MODIFIED="1461233628451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="uley" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BroadcastController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/BroadcastController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="10.0">
+              <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+              <folding>
+                <element signature="e#40#58#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="readme.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readme.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.19438446">
+              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BroadcastStoreRequest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/BroadcastStoreRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.5">
+              <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="4.875">
+              <caret line="6" column="123" selection-start-line="6" selection-start-column="123" selection-end-line="6" selection-end-column="123" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BroadcastUpdateRequest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/BroadcastUpdateRequest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-2.5">
+              <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Request.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/Request.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.5">
+              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="e#37#80#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RequestInterface.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Requests/RequestInterface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.625">
+              <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BroadcastTest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tests/BroadcastTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-106.875">
+              <caret line="171" column="56" selection-start-line="171" selection-start-column="56" selection-end-line="171" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Rebase.Settings">
+    <option name="ONTO" value="refs/heads/master" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/modules/Users/Resources/views/employers/show/main_info.blade.php" />
+        <option value="$PROJECT_DIR$/modules/Admin/Database/Seeders/RulesTableSeeder.php" />
+        <option value="$PROJECT_DIR$/modules/Projects/GridDataProviders/TasksDataProvider.php" />
+        <option value="$PROJECT_DIR$/public/templates/tasks/show.html" />
+        <option value="$PROJECT_DIR$/public/templates/tasks/task.attachments.html" />
+        <option value="$PROJECT_DIR$/tests/integration/tasks/TasksTest.php" />
+        <option value="$PROJECT_DIR$/resources/assets/custom/js/controllers/Tasks/TaskCtrl.js" />
+        <option value="$PROJECT_DIR$/modules/Users/helpers.php" />
+        <option value="$PROJECT_DIR$/modules/Api/Http/Controllers/Tasks/TaskParticipantsController.php" />
+        <option value="$PROJECT_DIR$/resources/assets/custom/js/directives/editable/directives/select.js" />
+        <option value="$PROJECT_DIR$/modules/Users/Entities/Role.php" />
+        <option value="$PROJECT_DIR$/modules/Users/Components/Permissions/HasRules.php" />
+        <option value="$PROJECT_DIR$/tests/integration/rules/TaskTest.php" />
+        <option value="$PROJECT_DIR$/public/templates/tasks/task.participants.html" />
+        <option value="$PROJECT_DIR$/tests/integration/rules/GroupsTest.php" />
+        <option value="$PROJECT_DIR$/modules/Projects/Policies/ProjectPolicy.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2016_08_02_101553_groups_not_blocked.php" />
+        <option value="$PROJECT_DIR$/modules/Projects/Http/Controllers/ProjectsController.php" />
+        <option value="$PROJECT_DIR$/modules/Projects/Policies/TaskPolicy.php" />
+        <option value="$PROJECT_DIR$/modules/Api/Http/Controllers/TasksController.php" />
+        <option value="$PROJECT_DIR$/modules/Api/Http/Controllers/ConfigController.php" />
+        <option value="$PROJECT_DIR$/modules/Api/Http/Controllers/Tasks/UsersController.php" />
+        <option value="$PROJECT_DIR$/modules/Users/Entities/User.php" />
+        <option value="$PROJECT_DIR$/modules/Projects/Entities/Project.php" />
+        <option value="$PROJECT_DIR$/modules/Projects/Entities/Task.php" />
+        <option value="$PROJECT_DIR$/modules/Api/Http/Controllers/ProjectsController.php" />
+        <option value="$PROJECT_DIR$/resources/assets/custom/js/services/projectUserService.js" />
+        <option value="$PROJECT_DIR$/modules/Projects/Repositories/ProjectRepository.php" />
+        <option value="$PROJECT_DIR$/modules/Api/Http/routes.php" />
+        <option value="$PROJECT_DIR$/modules/Api/Http/Controllers/ApiController.php" />
+        <option value="$PROJECT_DIR$/modules/Api/Http/Controllers/Projects/UsersController.php" />
+        <option value="$PROJECT_DIR$/resources/assets/custom/js/controllers/ParticipantsCtrl.js" />
+        <option value="$PROJECT_DIR$/modules/Projects/Resources/views/projects/participants.blade.php" />
+        <option value="$PROJECT_DIR$/resources/assets/custom/js/controllers/ProjectUsersCtrl.js" />
+        <option value="$PROJECT_DIR$/config/database.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2016_08_04_062726_create_broadcasts_table.php" />
+        <option value="$PROJECT_DIR$/app/Http/Requests/BroadcastRequest.php" />
+        <option value="$PROJECT_DIR$/app/Broadcast.php" />
+        <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/app/Policies/BroadcastPolicy.php" />
+        <option value="$PROJECT_DIR$/tests/ExampleTest.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Http/routes.php" />
+        <option value="$PROJECT_DIR$/app/Http/Requests/BroadcastStoreRequest.php" />
+        <option value="$PROJECT_DIR$/app/Http/Requests/BroadcastUpdateRequest.php" />
+        <option value="$PROJECT_DIR$/app/Http/Requests/RequestInterface.php" />
+        <option value="$PROJECT_DIR$/app/Http/Requests/Request.php" />
+        <option value="$PROJECT_DIR$/tests/BroadcastTest.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/BroadcastController.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <gulpfiles>
+      <GulpfileState>
+        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
+      </GulpfileState>
+    </gulpfiles>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.5" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="67" />
+    <option name="y" value="52" />
+    <option name="width" value="1835" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="tests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lang" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="en" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="database" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="migrations" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Providers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Policies" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Requests" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Middleware" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uley" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../uley2" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="SearchEverywhereHistoryKey" value="main-info-controller&#9;null&#9;null" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="211" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="246" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="253" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1134" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="223" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="242" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="249" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1130" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/elements" />
+      <recent name="$PROJECT_DIR$/modules/Api/Http/Controllers" />
+      <recent name="$PROJECT_DIR$/modules/Users/Validators" />
+      <recent name="$PROJECT_DIR$/modules/Api/Http/Controllers/Users" />
+      <recent name="$PROJECT_DIR$/modules/Api/Http/Controllers/Tasks" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/Http/Requests" />
+      <recent name="$PROJECT_DIR$/modules/Api/Http/Controllers/Tasks" />
+      <recent name="$PROJECT_DIR$/modules/Projects/Policies" />
+      <recent name="$PROJECT_DIR$/modules/Api/Http/Controllers/Projects" />
+      <recent name="$PROJECT_DIR$/resources/assets/custom/js/controllers/Tasks" />
+    </key>
+  </component>
+  <component name="RestClientSettings">
+    <option name="REQUEST_HISTORY">
+      <list>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1459254430000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImlwNkdXTDVnQUQyWitzUEpvQ1JzXC93PT0iLCJ2YWx1ZSI6IkliM3J4VFFuc3FUYTc5Qk1QanRNUFpRbkFPRjg5WEUzek5cL2ZYbjZ6eFpzVWpUekFKNnVkTEZEaFwvRG1Ka2MybHF3bjMxTEk5RklzdFBnMlBzRTlvZXc9PSIsIm1hYyI6IjUwMjkzYjVkNzUwYTVmOGMwODU4NWFlZmQxOTgxZTA4NjMzYWRmNDI2ODE1ODQ4MGM2MTc2MWRkNTUwODA5NTAifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459547230000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="lang" />
+                <option name="path" value="/" />
+                <option name="value" value="ru" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459254430000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjcrN2pMeXZDUkYxRkYzK3FRcUxjWVE9PSIsInZhbHVlIjoiTUhESUxCVEJPb2ZKOEgzdmtUZE9OOVkxdlRJbEN5VlViQWZRdUNRc0tYTlRTUjBja3JPYWZWU1wvSWFueDdFWDFmSXlzMkczWFZ5MnRmOXM5TXhCeFB3PT0iLCJtYWMiOiIzY2FhMWRmNGRjMjJmODY1OTgwYzFiOTAwNTBjZDEzOWZlMWI2ZDFhZDRlOTM3ZWNiMTBkNDVmYjllOGMyNzVmIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://uley.local" />
+          <option name="urlPath" value="api/v1/towns" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="AiRxNoSd98aAIZWM0UpDFhnGytKwQhC9lokQTWszROnnk07wwszeKPQtgnrs" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="Москва" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[onec_id]" />
+                <option name="value" value="d8496ea0-dcb9-11e3-95bc-000c297dfd4d" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[redmine_id]" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="haveTextToSend" value="true" />
+          <option name="textToSend" value="{ &quot;token&quot;: &quot;AiRxNoSd98aAIZWM0UpDFhnGytKwQhC9lokQTWszROnnk07wwszeKPQtgnrs&quot;, &quot;title&quot;: &quot;Москва&quot;, &quot;import_keys&quot;: { &quot;onec_id&quot;: &quot;d8496ea0-dcb9-11e3-95bc-000c297dfd4d&quot;, &quot;redmine_id&quot;: &quot;2&quot; } }" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1459254426000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjZsaDFSK1g5dzVFeVlIWG9ZM25LOWc9PSIsInZhbHVlIjoiQ1hJdlwvWmNnSDVJV3d2Z2dGc2llZExHV082SVJvdUYyV21UdUl3NVFFNDJDUGR4MW1UMVhHN3BZSFY4N200UUhWa0U0QzNnMnlOMmtoM1RBTkYzWkNBPT0iLCJtYWMiOiIxOTlhNjI4NmZkMzMwMjFlMmJlZTA4NjhiMDgyNWJlZTU2MzZhYzE2M2E4YjlkZTc5NWUwMWFiNzYwYzhlODNiIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459547225000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="lang" />
+                <option name="path" value="/" />
+                <option name="value" value="ru" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459254426000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ink5eVhUSnNFSjNwOUF5dU5ja05rWWc9PSIsInZhbHVlIjoieGQ4WmhGQlU4ZnlXOU5VOVFcLzRXT2xHRGdJY3kzbkJicDZNUXo5ZFwvd3BKOGtSUGxpMVpMdDZBbHFpalBYUjdiR1pmTGhNZGU2ZVlHZlVSS0MxcHpqdz09IiwibWFjIjoiYmQ3OTFjNjIyMTgwMmEwZmJmMjhiODM0NmUyOWExOWM4MWY3MmZhYmJmYzYxZDNiNTA4MGMzZDBhZmJmOTM0MyJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://uley.local" />
+          <option name="urlPath" value="api/v1/towns" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="AiRxNoSd98aAIZWM0UpDFhnGytKwQhC9lokQTWszROnnk07wwszeKPQtgnrs" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="Москва" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[onec_id]" />
+                <option name="value" value="d8496ea0-dcb9-11e3-95bc-000c297dfd4d" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[redmine_id]" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1459254424000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlEwSnJPR3lsUnFCTktkQnIycFJsNHc9PSIsInZhbHVlIjoiTGlteGpXYW9MdGdvbmJ1K0tENEo3TTJSOE5OV2ZFZklybEFra1JKYStDVjBEdlNXVVlMSkJXbituOVJ1VVluM2M5RmN0XC8zNjF0c0l0cU1wSUhpbm53PT0iLCJtYWMiOiJlZTBlNzYxMzM4MTEyNGI1NjI5NTQ3NThiNDhkNjAwZGJkZjliMmRlYzAzOGYxZTQ5NWRjMWQ3ODUzMjVjY2UwIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459547224000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="lang" />
+                <option name="path" value="/" />
+                <option name="value" value="ru" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459254424000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImJYMDBIUHhSV0RjZGUwS0s5TU14Vnc9PSIsInZhbHVlIjoiUG0zdW80MjZtVjBsU1ZHK1pocFZ5WnBuN0cyYnFieEgyeEtLSjU2Qlp0SnEwZFFXU0hJWDJLOXQ5K2pjc2JEaXNwTG85ekM4V3QrYnpaOTZHSlBZWHc9PSIsIm1hYyI6IjI0MDQ4OTdiOTY1MzZkNTlhMGZiZjZjNDQzMjhhNTVmZmRmZmU2YTE1MjhhMDdlMTMyZTVhZjBjYmEzNzUxOTAifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://uley.local" />
+          <option name="urlPath" value="api/v1/towns" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="AiRxNoSd98aAIZWM0UpDFhnGytKwQhC9lokQTWszROnnk07wwszeKPQtgnrs" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="Москва" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[onec_id]" />
+                <option name="value" value="d8496ea0-dcb9-11e3-95bc-000c297dfd4d" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[redmine_id]" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1459254421000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjBxZUM5b3h0XC9cL245ZGVYSFNNbmFaUT09IiwidmFsdWUiOiJUMzk1MFZYYjIrM0F4YmJCOW96bTdXY1lGZUh2Z0F0NFhNQUlYSUNwUFJQK2Q0NVdxMUt0WFwvVE0wNldxWVBHTkhtOFg5d3VIdERlcENBenU4XC9ZWFlRPT0iLCJtYWMiOiJmNDE2NWZlMDI4ZTlmMzAxYmM3NzIzMTJjMWRiNmJhYTI0MWFmNzdlNmU3Njk4YjU1NTljMGM0NzJjNDgxNjY2In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459547221000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="lang" />
+                <option name="path" value="/" />
+                <option name="value" value="ru" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459254421000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlFHVGd1T29KZGlad2dRdTRQWEltREE9PSIsInZhbHVlIjoiSHJvNTJwaTl0TGpxbXIxeU9RZ2Y3dklvb1cyOUdOTEc4dzl5UFFDdm9tQ1RjXC9LYU5OU1R2VXpsNHBFM2ttMHNwcVhOT3J4Zkg2c1pwOWI1a3NXcVJ3PT0iLCJtYWMiOiIyMWQwYzE0YzYxMjU3YzM4YjhkNzNkNzIxZGYzYTBiZTBkYWI1NGQ0NDU2YTllZWY2NmQ1M2ZmODIzODA0NjI3In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://uley.local" />
+          <option name="urlPath" value="api/v1/towns" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="AiRxNoSd98aAIZWM0UpDFhnGytKwQhC9lokQTWszROnnk07wwszeKPQtgnrs" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="Москва" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[onec_id]" />
+                <option name="value" value="d8496ea0-dcb9-11e3-95bc-000c297dfd4d" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[redmine_id]" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1459254420000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImthcFhTQ2NtNU9FUVozaldmMlMyZHc9PSIsInZhbHVlIjoiQzNpSzNvZWY3RzREZzZjMDNodWlUOE9MUFpHT1RpXC9HRm1qdzdscFJhOEtha3lwV3UrXC9yY3gwc0tzclwvMXJuTmdsd1BsOFlcL2szbzJ4XC9nMlpUNW5XZz09IiwibWFjIjoiNjM2OTQxYTgwMjMzNGE1ZmE2NjExZDkzMDI3YjliYzgxNzI4MDk1OGI2ODA2MDc2NDEzNmIzMjMyNWEwMWQ4MiJ9" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459547220000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="lang" />
+                <option name="path" value="/" />
+                <option name="value" value="ru" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459254420000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkRPMWw0T0lwa2hEVW1hcyt5MVR5M0E9PSIsInZhbHVlIjoiaVc1QW9qREpOQ3Q4OTYycnVyQXozQXNZUlBzeW5pdld2SUpMcitwOWhvdXBFNmQ4M0ZvUGZFRTBzQjVTem5SajNmUXFKOUNjY0lhUlRYaitBWEVWYnc9PSIsIm1hYyI6IjYyNGM5ZDBkMTdlY2I4M2UyZDJhMzllOTM0Y2I5ZjUzMDRlNTRlYmQ1ZTQ4MTNlMjE0NGY4MmNmMjVmMmFkY2MifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://uley.local" />
+          <option name="urlPath" value="api/v1/towns" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="AiRxNoSd98aAIZWM0UpDFhnGytKwQhC9lokQTWszROnnk07wwszeKPQtgnrs" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="Москва" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[onec_id]" />
+                <option name="value" value="d8496ea0-dcb9-11e3-95bc-000c297dfd4d" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[redmine_id]" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1459254419000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IndsWW9SRFM2XC94S0hDdWc2T0ZBaG93PT0iLCJ2YWx1ZSI6Img0Y21zTVA0RFlcL3M0dWg2RlQ0dkY4SisrMlwvc05DcmI1ekxUd1lzNVY2MFVvWU1rbkw2MDA3dDVPamRyWFpzYzhPcExJbmhadlVRcHc4ZkN4RjlGYnc9PSIsIm1hYyI6IjBlYTMzMGJjYTI5YmU2MmExMDVjMDBjN2E3MTUzZGIzYTJkZjViMzI3MzYyM2IxMTE1ZWI4ZDhlZDIwZWU3NTQifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459547219000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="lang" />
+                <option name="path" value="/" />
+                <option name="value" value="ru" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459254419000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlRFaU0rNzlJUGE5TmhRazQybzdWOXc9PSIsInZhbHVlIjoiVjZGOUUzVWdQeDFWd2t1Uko2VitsM0Q3ZkJhSFpSdURVOXNhalg0aWZTMWFlTDlnT0srb0ZiVkVGZ3RpaVhQWkY1TUlZVkE1dmp3RnluR1NDTHpQdVE9PSIsIm1hYyI6ImZjZWRhMjQyOGYzNmJjMWJhMzQ5ZGNhOTMyNWJmYjM0NjgzNWNkMTk0MWVkOGVjYzg4NzVhYWQxOGQzMGM2ZjQifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://uley.local" />
+          <option name="urlPath" value="api/v1/towns" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="AiRxNoSd98aAIZWM0UpDFhnGytKwQhC9lokQTWszROnnk07wwszeKPQtgnrs" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="Москва" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[onec_id]" />
+                <option name="value" value="d8496ea0-dcb9-11e3-95bc-000c297dfd4d" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[redmine_id]" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1459254419000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ikszdk80SFBpemJkcUpwa3JWTEpQbVE9PSIsInZhbHVlIjoiSDdSZXBWdGh3djhtUWpGaFdKYXdwK2ZmMytOQ1VPcW5xSHlRQnNQUnNYTjRxS0NXY2NFTmM1ck5rV0pwTzRzd1wvTXh4MEdFc28wYTE2YytqcnM5eUdRPT0iLCJtYWMiOiI4NWVkNzk3MmI2YTMwYTAyMjJmMjEwZmE0NWJhMjNjM2ZkMGJkYjc2ZWQ3ZmZhMjdjNmJkNDcwZmEyYTRlZTc4In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459547219000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="lang" />
+                <option name="path" value="/" />
+                <option name="value" value="ru" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459254419000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImhDT09kSUdTMnhubGdWK0RUYTM2OFE9PSIsInZhbHVlIjoiT0RoYWN2MXdGVXdpQXZKVFNVek9zUkRrTDNjYmtoXC9nSnRxSFI0Q05vaVp5VjdsNjlMV2Ryb2ZmSXkzV1VWbTRDalFVSHhjSU1ISDZmQjFtY2VicDBBPT0iLCJtYWMiOiI5Njk3N2Y5OWNkNDlkYTI3NWFhMmU4YmZjZWQ1YjUxYmZhM2Y5YzdiZGViYzI0MmRlZmFkNDQxNTBjMThhY2Q4In0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://uley.local" />
+          <option name="urlPath" value="api/v1/towns" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="AiRxNoSd98aAIZWM0UpDFhnGytKwQhC9lokQTWszROnnk07wwszeKPQtgnrs" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="Москва" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[onec_id]" />
+                <option name="value" value="d8496ea0-dcb9-11e3-95bc-000c297dfd4d" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[redmine_id]" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1459254418000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6InQzXC9cLzBOSWxqYzdvbGs2enJ6bjczQT09IiwidmFsdWUiOiJnRG4zNW9nUHNKOVVpckJudEtXXC9BRGVrSzAyQ0UxRTJvc1VkQlFxWWtXb3ZzZXQ3OW55UVBqZld0V1lGc1FndU10WmMwTFdoQVAxXC95ekVXaEhjYnN3PT0iLCJtYWMiOiI4NDc5NzFlZmJhZjIyYzJjZmNiZWI1ZWIwYjEzYzAyYjNmYjVmZjFkMmIwMjMyMjMzODUxNTZjN2EzNTUzMzVjIn0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459547218000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="lang" />
+                <option name="path" value="/" />
+                <option name="value" value="ru" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459254418000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImQxY1MzbWRxblFEcnRPN09wU3E5UHc9PSIsInZhbHVlIjoiZ2t2aEZ2OElFN2FTRWVBTmxObHhUWTRGTE5LK0dIMEx4UUdia3hWcVwvZ280MVJTRUF5OXFGZ3l6ejduU3R1QmpcL1FEUWw3Z0NodEFtOW9hQTlteXRKZz09IiwibWFjIjoiMDgwMmIyOWU5MTRiMzk4OTY4MzliZDc2OTM3MzA0MGY1YjE0NjYwOWQwNDRlNzRiZmJjODIxYjhjNGY5MTM3NiJ9" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://uley.local" />
+          <option name="urlPath" value="api/v1/towns" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="AiRxNoSd98aAIZWM0UpDFhnGytKwQhC9lokQTWszROnnk07wwszeKPQtgnrs" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="Москва" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[onec_id]" />
+                <option name="value" value="d8496ea0-dcb9-11e3-95bc-000c297dfd4d" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[redmine_id]" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1459254417000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Ik9BcXZaWFplb1hvb1VSanRzUnU2Z3c9PSIsInZhbHVlIjoiVDI5Z29nM2JEaFFOeDVcL0dCb1pORnZmTTRaV3RhZXlXbGIrSXNjS2syVG9rS2lYNzQxbGNFbitXVXVqeGVDU3pVaUo0aXFHTlRZZE9jNXlsWkQ3K253PT0iLCJtYWMiOiI0ZTE2MzJiY2Y4MWMzNDViZmY0ZGJiYmFmNWYxZDNkMjEyM2ZkNzk3NDQyMjg2ZDkxYjAxYTlkOGM1YWJkYzc2In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459547217000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="lang" />
+                <option name="path" value="/" />
+                <option name="value" value="ru" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459254417000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6Inc5akhTUEhCRXk2Z0tmMEYrQ29uaEE9PSIsInZhbHVlIjoibnBCRTkrdzZvTGpsQ2JIMkZYazdLMlExbzk2NGtUSFk1ZlpndCtNRlVmWnhnRTFRMTVlQ3hPOW5PZTZlQXZXdzZaemwzWnBma1lkeTJBb2Q2Ym5XSEE9PSIsIm1hYyI6Ijg2M2Q4OGFmM2QxOTI5Yzk2NDU3MWExZGZhMTM1MDljMDc5N2UwYWY5YmVlZjRkM2U5ZWY2ZWQ4NjJkMDQ1ZDcifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://uley.local" />
+          <option name="urlPath" value="api/v1/towns" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="AiRxNoSd98aAIZWM0UpDFhnGytKwQhC9lokQTWszROnnk07wwszeKPQtgnrs" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="Москва" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[onec_id]" />
+                <option name="value" value="d8496ea0-dcb9-11e3-95bc-000c297dfd4d" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[redmine_id]" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1459254412000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IjR3aVpCdkM5QnlsWFBEY29WOFN1MVE9PSIsInZhbHVlIjoiMlhiWlFUTTgwV1NZUmV4S3FtZlwvR05hVUtrWkFRVFlHZUsrVkNHa1lSTk02WmJnOWJQM0o1WkxUQUxualhqVktiUU1STTBSaWk4KzdGdFoyZVd0ZjB3PT0iLCJtYWMiOiIzMWJmNjdlNTk5MTkzZDJlNmE5NTdiYmI4MmVmMjM2NjVjZjliMzVlMzc4NzEzZTBhYTUxYzkyMWY4NTExZWQ4In0%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459547212000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="lang" />
+                <option name="path" value="/" />
+                <option name="value" value="ru" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459254412000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImM3ZWNkbXFjVENlSFN2MEIxc0NaaXc9PSIsInZhbHVlIjoiZjFsdlRXK1VVVERNWEJYdWxUNVBzUDNKV25MRVFUd1o3ZVR4a0RNVTJqZHFCZmM3WVNTWEhIUDJ0TThPelNXT1dWR1IyN205S1VhWnIxWXBVNVFCc3c9PSIsIm1hYyI6ImJjODFjYjA4NTY2MDA5OTNiM2U0YjdiYjIxYzljNmExNGJkNmM5YTc5Njk1YjIyMDNkNWZjYmVkOGE5MDdhMjMifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://uley.local" />
+          <option name="urlPath" value="api/v1/towns" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="AiRxNoSd98aAIZWM0UpDFhnGytKwQhC9lokQTWszROnnk07wwszeKPQtgnrs" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="Москва" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[onec_id]" />
+                <option name="value" value="d8496ea0-dcb9-11e3-95bc-000c297dfd4d" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[redmine_id]" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1459254358000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IkxoTDB1cjVFQ3lEcW9qZk5SZ1RkYlE9PSIsInZhbHVlIjoiU2duSlh3bXZEN2Q5cmhsS2h5ckJVVGR6THMwdzduYmNpNnVJa0Z2ZG1wTnl5Z3pGeUVnYjVBTFNwK3h2RmxSb1VUUDB1MGZSRlo4anJ0TXFMbUcrdWc9PSIsIm1hYyI6ImQ3MjRlZGE3NGU2NWQ3Mjk1Mzg0NGZlZWI1ZjRkM2Y5ZjliYTNiZTAzNmRiZGU3MTA2NDdmZjdmZDgyNmRjNjIifQ%3D%3D" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459547158000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="lang" />
+                <option name="path" value="/" />
+                <option name="value" value="ru" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459254358000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IlRDU2xlalBsak9wMjVvMHhhR1wvT1ZnPT0iLCJ2YWx1ZSI6InpoOGlcL3BRSkY2THdYalZwbEFKd0xcL0ZGSzhVeW9RODFCYmVjZXR4QU82TTBCRjZkWnlXek1yY0M3WERpZTdNdzlOVVdWZ2F3bkdieUt0ZXdRTk94aVE9PSIsIm1hYyI6IjU5YjJhODkxNGFjZDMwOTY3NTAwZWI3YWQ4OGNhYjk2NTY4Y2U3NjllOWJiMTEyYmVlM2Y3N2U5Y2Y4YTZjNTIifQ%3D%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://uley.local" />
+          <option name="urlPath" value="api/v1/towns" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="AiRxNoSd98aAIZWM0UpDFhnGytKwQhC9lokQTWszROnnk07wwszeKPQtgnrs" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="Москва" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[onec_id]" />
+                <option name="value" value="d8496ea0-dcb9-11e3-95bc-000c297dfd4d" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[redmine_id]" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="biscuits">
+            <list>
+              <Biscuit>
+                <option name="date" value="1459254299000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="XSRF-TOKEN" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6IndhVDRtS0lJb3VHQjBodTBKVGNaTWc9PSIsInZhbHVlIjoiYUZMYW5iZ3ZCVzlleCtBMXhzYno5XC9sUVdsMUdVbEgwUXBycWlqRGdOdm9pZmxxXC9FZ05GSFFOYnBCU05IQlBzS1I2Nlh3enlGTTczT0RUN3JlM21lQT09IiwibWFjIjoiNzMwMTY0MmQ0ZmMxYWI0NzIyMTM2OGFjYmUwYjNiYjA3ODViNzUyY2RiMGRmNWI4OTY1YjcwMzQ5OTZmNzViNCJ9" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459547099000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="lang" />
+                <option name="path" value="/" />
+                <option name="value" value="ru" />
+              </Biscuit>
+              <Biscuit>
+                <option name="date" value="1459254299000" />
+                <option name="domain" value="uley.local" />
+                <option name="name" value="laravel_session" />
+                <option name="path" value="/" />
+                <option name="value" value="eyJpdiI6ImxQNVhlVVwvb2RQY256SUdEKzA4WGFnPT0iLCJ2YWx1ZSI6IklCNmpzZkJpSEhJbE1nR3hXamZkOFk5bTBEUERYV1d6Y3VZNFFpYXlGM2NmSnQ1QzBzN3g1QkpWWG9VSVRHVDBvREN1Rk9GT09oTDJ3RTZYb2RlUUV3PT0iLCJtYWMiOiJkNDliZjZiMjc2OTQ1ZmU2NjgyNTUwNjE5NzVmYmFhOWQ0NTE2MmEyNDJlMGU4YzY4OWQzMWM3Y2JhOWRiMGZhIn0%3D" />
+              </Biscuit>
+            </list>
+          </option>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://uley.local" />
+          <option name="urlPath" value="api/v1/towns" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="AiRxNoSd98aAIZWM0UpDFhnGytKwQhC9lokQTWszROnnk07wwszeKPQtgnrs" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="Mos" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[onec_id]" />
+                <option name="value" value="d8496ea0-dcb9-11e3-95bc-000c297dfd4d" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[redmine_id]" />
+                <option name="value" value="2" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+        <RestClientRequest>
+          <option name="httpMethod" value="POST" />
+          <option name="urlBase" value="http://uley.local" />
+          <option name="urlPath" value="api/v1/towns" />
+          <option name="headers">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="Accept" />
+                <option name="value" value="*/*" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="Cache-Control" />
+                <option name="value" value="no-cache" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parameters">
+            <list>
+              <KeyValuePair>
+                <option name="key" value="token" />
+                <option name="value" value="AiRxNoSd98aAIZWM0UpDFhnGytKwQhC9lokQTWszROnnk07wwszeKPQtgnrs" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="title" />
+                <option name="value" value="Mos" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[onec_id]" />
+                <option name="value" value="1" />
+              </KeyValuePair>
+              <KeyValuePair>
+                <option name="key" value="import_keys[redmine_id]" />
+                <option name="value" value="7" />
+              </KeyValuePair>
+            </list>
+          </option>
+          <option name="parametersEnabled" value="true" />
+          <option name="textToSend" value="" />
+          <option name="filesToSend" value="" />
+        </RestClientRequest>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="PHPUnit.BroadcastTest">
+    <configuration default="false" name="tests" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$/tests" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TasksTest (1)" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="TasksTest" file="$PROJECT_DIR$/tests/integration/tasks/TasksTest.php" scope="Class" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TaskTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="TaskTest" file="$PROJECT_DIR$/tests/integration/rules/TaskTest.php" scope="Class" />
+      <method />
+    </configuration>
+    <configuration default="false" name="GroupsTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="GroupsTest" file="$PROJECT_DIR$/tests/integration/rules/GroupsTest.php" scope="Class" />
+      <method />
+    </configuration>
+    <configuration default="false" name="BroadcastTest" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="BroadcastTest" file="$PROJECT_DIR$/tests/BroadcastTest.php" scope="Class" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="PHPUnit.tests" />
+      <item index="1" class="java.lang.String" itemvalue="PHPUnit.TasksTest (1)" />
+      <item index="2" class="java.lang.String" itemvalue="PHPUnit.TaskTest" />
+      <item index="3" class="java.lang.String" itemvalue="PHPUnit.GroupsTest" />
+      <item index="4" class="java.lang.String" itemvalue="PHPUnit.BroadcastTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="PHPUnit.BroadcastTest" />
+        <item index="1" class="java.lang.String" itemvalue="PHPUnit.GroupsTest" />
+        <item index="2" class="java.lang.String" itemvalue="PHPUnit.tests" />
+        <item index="3" class="java.lang.String" itemvalue="PHPUnit.TaskTest" />
+        <item index="4" class="java.lang.String" itemvalue="PHPUnit.TasksTest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dffa1d09-1c9f-498d-81cd-66f27fd3c8ad" name="Default" comment="" />
+      <created>1456729437343</created>
+      <option name="number" value="Default" />
+      <updated>1456729437343</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="BroadcastTest - 2016.08.04 at 14h 36m 20s.xml">
+      <configuration name="BroadcastTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="BroadcastTest - 2016.08.04 at 14h 37m 14s.xml">
+      <configuration name="BroadcastTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="BroadcastTest - 2016.08.04 at 14h 38m 58s.xml">
+      <configuration name="BroadcastTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="BroadcastTest - 2016.08.04 at 14h 43m 33s.xml">
+      <configuration name="BroadcastTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="BroadcastTest - 2016.08.04 at 14h 44m 28s.xml">
+      <configuration name="BroadcastTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="BroadcastTest - 2016.08.04 at 14h 44m 37s.xml">
+      <configuration name="BroadcastTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="BroadcastTest - 2016.08.04 at 14h 44m 59s.xml">
+      <configuration name="BroadcastTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="BroadcastTest - 2016.08.04 at 14h 46m 02s.xml">
+      <configuration name="BroadcastTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="BroadcastTest - 2016.08.04 at 14h 46m 54s.xml">
+      <configuration name="BroadcastTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="BroadcastTest - 2016.08.04 at 14h 47m 36s.xml">
+      <configuration name="BroadcastTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="52" width="1835" height="970" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20011179" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299389" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.305794" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38297874" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39914164" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299389" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299389" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299389" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299389" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="REST Client" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299389" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299389" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3849287" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2015625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3065173" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/modules/Users/Entities/Town.php</url>
+          <line>3</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/modules/Users/Components/Permissions/HasRules.php</url>
+          <line>166</line>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="88" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.625">
+          <caret line="2612" column="0" selection-start-line="2612" selection-start-column="0" selection-end-line="2612" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.583333">
+          <caret line="208" column="0" selection-start-line="208" selection-start-column="0" selection-end-line="208" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Collection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3480769">
+          <caret line="56" column="20" selection-start-line="56" selection-start-column="20" selection-end-line="56" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsToMany.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5416665">
+          <caret line="927" column="20" selection-start-line="927" selection-start-column="20" selection-end-line="927" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3480769">
+          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Collection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="65.583336">
+          <caret line="158" column="20" selection-start-line="158" selection-start-column="20" selection-end-line="158" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/web.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env.example">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.5">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2016_08_04_062726_create_broadcasts_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.875">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/AuthController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Providers/AppServiceProvider.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.875">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="e#33#51#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Policies/BroadcastPolicy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/TestCase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Redis/Database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.8333335">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.5">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Redis.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.6303418">
+          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Foundation/Http/FormRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7310469">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16245487">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.54717">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Broadcast.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.875">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Http/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.75">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Routing/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1923077">
+          <caret line="7" column="15" selection-start-line="7" selection-start-column="15" selection-end-line="7" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1923077">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/RequestInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="1" column="28" selection-start-line="1" selection-start-column="28" selection-end-line="1" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/Request.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.5">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#37#80#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.875">
+          <caret line="6" column="123" selection-start-line="6" selection-start-column="123" selection-end-line="6" selection-end-column="123" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/BroadcastStoreRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="4" column="43" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Requests/BroadcastUpdateRequest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-2.5">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/BroadcastTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-106.875">
+          <caret line="171" column="56" selection-start-line="171" selection-start-column="56" selection-end-line="171" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/BroadcastController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="10.0">
+          <caret line="38" column="26" selection-start-line="38" selection-start-column="26" selection-end-line="38" selection-end-column="26" />
+          <folding>
+            <element signature="e#40#58#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19438446">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
